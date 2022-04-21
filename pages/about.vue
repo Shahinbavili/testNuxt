@@ -1,11 +1,13 @@
 <template>
-$END$
+<div>about</div>
 </template>
 
 <script>
 export default {
-name: "about"
+  name: "AboutPage",
+  layout: 'blog'
 }
+
 </script>
 
 <style scoped>
